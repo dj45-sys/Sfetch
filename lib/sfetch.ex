@@ -27,3 +27,9 @@ defmodule Sfetch do
       Sfetch.time()
     end
 end
+
+puts(:stderr, " \x1b[38;5;3mSysFetch: ")
+Sfetch.cpuName()
+Sfetch.osName()
+Sfetch.host()
+Sfetch.time()
