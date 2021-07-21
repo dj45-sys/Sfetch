@@ -7,4 +7,9 @@ A minimal System fetch and my first project in Elixir
 - How to Test?  Use`mix test`
 
 # Screenshots
-<img src="./img/Sfetch.png">
+
+## Windows
+<img src="./img/windows.png">
+
+## Linux
+<img src="./img/linux.png">
